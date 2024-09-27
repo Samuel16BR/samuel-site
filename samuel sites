@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+    <title>Page Title</Title>
+    </head>
+
+
+
+    <body>
+        <h1>Isso é um título</h1>
+        <h2>Subtítulo</h2>
+
+        <ul>
+        <li>Cavalete</li>
+        <li>Pepnios</li>
+</ul>
+        <!-- colocando um comentário para não se perder nas marcações -->
+        <p>O que você gostaria de falar aqui neste parágrado?</p>
+        <img src="C:\Users\samuel\Downloads\html-logo-main\html-logo-main\html.png" alt="logo do html 5">
+   
+   
+   
+   
+    </body>
+</html>
